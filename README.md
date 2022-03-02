@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# My name is Karen Gaffney and I am a Senior at the University of Washington graduating with a BS in Bioengineering with an Option in Data Science and a Minor in Applied Mathematics! 
+### My name is Karen Gaffney and I am a Senior at the University of Washington graduating with a BS in Bioengineering with an Option in Data Science and a Minor in Applied Mathematics! 
 
-# This github stores a few of my Class Projects as well as some Hobby Projects
+### This github stores a few of my Class Projects as well as some Hobby Projects
 
-# Do you like to play WORDLE? The viral New York Times daily word puzzle? 
-#  Then check out Wyrdle.ipynb where I coded the game so you can play it any time you want!
+### Do you like to play WORDLE? The viral New York Times daily word puzzle? 
+### Then check out Wyrdle.ipynb where I coded the game so you can play it any time you want!
 <!--
 **Sugi1999/Sugi1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
